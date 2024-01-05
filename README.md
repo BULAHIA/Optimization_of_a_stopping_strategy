@@ -1,0 +1,1 @@
+# Optimization_of_a_stopping_strategy
